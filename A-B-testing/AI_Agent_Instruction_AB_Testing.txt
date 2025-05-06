@@ -1,4 +1,3 @@
-
 AI Agent Instruction: A/B Testing for Facebook Ads via Social Media Guild Access
 
 1. Purpose and Role
